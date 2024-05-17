@@ -5,7 +5,7 @@
 We want to help you get started and enable you to enter the strong foundations of the OPC UA ecosystem for laboratory/analytical device.
 
 #
-<h2>Learn about OPC UA</h2>
+<h2>1. Learn about OPC UA</h2>
 As a first step we want to encourage you to learn more about OPC UA, so it becomes even cleare why we chose to create LADS upon this strong foundation:
 
 https://youtu.be/-tDGzwsBokY?si=pps0To__1PdD_2nt
@@ -15,7 +15,7 @@ and for more information have a look at this playlist:
 https://youtube.com/playlist?list=PLROM1mLWekVCzxGMs6kzpBnJiDh3fiquD&si=C4AJLMzhdeQlbYNV
 
 #
-<h2>Hear about the basic concepts of OPC UA LADS</h2>
+<h2>2. Hear about the basic concepts of OPC UA LADS</h2>
 If you directly want to dive into OPC UA LADS, we can recommend recorded talks by Dr. Matthias Arnold, the lead author of OPC UA LADS 30500:
 
 LADS OPC UA at Jasis 2023:
@@ -27,7 +27,7 @@ LADS OPC UA at OPC Days 2023:
 https://www.youtube.com/watch?v=eUcpQdN2Xek&list=PLROM1mLWekVBo57WTnReI_-5yVbIK4koW&index=5
 
 #
-<h2>Create a OPC UA LADS device</h2>
+<h2>3. Create a OPC UA LADS device</h2>
 If you are all prepared with the theory, then you may want to get started with our workshop example:
 https://github.com/opcua-lads/workshop
 
@@ -36,7 +36,7 @@ The workshop provides a complete device model and a server utilizing nodejs/ts.
 Soon we will link additional exmaples to use the workshop device model also with prominent stacks for C/C++ and C#
 
 #
-<h2>Helpfull tools for OPC UA LADS</h2>
+<h2>4. Helpfull tools for OPC UA LADS</h2>
 For the time being, have a look at these stacks and tools to get setup properly:
 
 Modellers:
