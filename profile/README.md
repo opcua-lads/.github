@@ -55,6 +55,18 @@ https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html
 Prosys OPC UA:
 https://prosysopc.com/products/opc-ua-browser/
 
+Technology stacks to get started:
+
+nodejs/typescript:
+https://github.com/node-opcua/node-opcua
+
+C# / .Net:
+Official stack by the foundation: https://github.com/OPCFoundation/UA-.NETStandard
+Stack provided by unified automation: https://www.unified-automation.com/de/produkte/server-sdk/net-ua-server-sdk.html
+
+Ansi C/ C++:
+https://github.com/open62541/open62541
+
 <!--
 
 **Here are some ideas to get you started:**
