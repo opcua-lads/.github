@@ -39,7 +39,7 @@ Soon we will link additional exmaples to use the workshop device model also with
 <h2>4. Helpful tools for OPC UA LADS</h2>
 For the time being, have a look at these stacks and tools to get setup properly:
 
-Modellers:
+<b>Modellers:</b>
 
 SioME provided free of charge by Siemens:
 https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-(siome)?dti=0&lc=en-DE
@@ -47,7 +47,7 @@ https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeli
 Unified Automation Modeller, wit basic functionality for free:
 https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uamodeler.html
 
-Generic clients:
+<b>Generic clients:</b>
 
 Unified Automation UA Expert:
 https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html
@@ -55,7 +55,7 @@ https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html
 Prosys OPC UA:
 https://prosysopc.com/products/opc-ua-browser/
 
-Technology stacks to get started:
+<b>Technology stacks to get started:</b>
 
 nodejs/typescript:
 https://github.com/node-opcua/node-opcua
