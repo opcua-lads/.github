@@ -15,7 +15,7 @@ and for more information have a look at this playlist:
 https://youtube.com/playlist?list=PLROM1mLWekVCzxGMs6kzpBnJiDh3fiquD&si=C4AJLMzhdeQlbYNV
 
 #
-<h2>2. Hear about the basic concepts of OPC UA LADS</h2>
+<h2>2. Learn about the concepts of OPC UA LADS</h2>
 If you directly want to dive into OPC UA LADS, we can recommend recorded talks by Dr. Matthias Arnold, the lead author of OPC UA LADS 30500:
 
 LADS OPC UA at Jasis 2023:
