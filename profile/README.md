@@ -2,7 +2,7 @@
 <b>Browse the standard: https://reference.opcfoundation.org/LADS/v100/docs/</b>
 ## 
 
-We want to help you get started and enable you to enter the strong foundations of the OPC UA ecosystem for laboratory/analytical device.
+We want to help you get started and enable you to enter the strong foundations of the OPC UA ecosystem for your laboratory/analytical devices.
 
 #
 <h2>1. Learn about OPC UA</h2>
