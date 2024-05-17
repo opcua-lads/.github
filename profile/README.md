@@ -1,4 +1,5 @@
 ## Hi there 👋  - A warm welcome to OPC UA LADS - the "Laboratory & Analytical Device Standard" built on OPC UA
+<b>Browse the standard: https://reference.opcfoundation.org/LADS/v100/docs/</b>
 ## 
 
 We want to help you get started and enable you to enter the strong foundations of the OPC UA ecosystem for laboratory/analytical device.
@@ -38,6 +39,7 @@ Soon we will link additional exmaples to use the workshop device model also with
 For the time being, have a look at these stacks and tools to get setup properly:
 
 Modellers:
+
 SioME provided free of charge by Siemens:
 https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-(siome)?dti=0&lc=en-DE
 
@@ -46,6 +48,11 @@ https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uamodeler.htm
 
 Generic clients:
 
+Unified Automation UA Expert:
+https://www.unified-automation.com/de/produkte/entwicklerwerkzeuge/uaexpert.html
+
+Prosys OPC UA:
+https://prosysopc.com/products/opc-ua-browser/
 
 <!--
 
