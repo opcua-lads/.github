@@ -56,12 +56,14 @@ Prosys OPC UA:
 https://prosysopc.com/products/opc-ua-browser/
 
 <b>Technology stacks to get started:</b>
+There are more stacks out there, this is the list of the most prominent ones used at the LADShack hackathons:
 
 nodejs/typescript:
 https://github.com/node-opcua/node-opcua
 
 C# / .Net:
 Official stack by the foundation: https://github.com/OPCFoundation/UA-.NETStandard
+
 Stack provided by unified automation: https://www.unified-automation.com/de/produkte/server-sdk/net-ua-server-sdk.html
 
 Ansi C/ C++:
