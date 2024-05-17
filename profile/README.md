@@ -36,7 +36,7 @@ The workshop provides a complete device model and a server utilizing nodejs/ts.
 Soon we will link additional exmaples to use the workshop device model also with prominent stacks for C/C++ and C#
 
 #
-<h2>4. Helpfull tools for OPC UA LADS</h2>
+<h2>4. Helpful tools for OPC UA LADS</h2>
 For the time being, have a look at these stacks and tools to get setup properly:
 
 Modellers:
