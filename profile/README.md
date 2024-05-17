@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋  - A warm welcome to OPC UA LADS - the "Laboratory & Analytical Device Standard" built on OPC UA
+## 
+
+We want to help you get started and enable you to enter the strong foundations of the OPC UA ecosystem for laboratory/analytical device.
+
 
 <!--
 
