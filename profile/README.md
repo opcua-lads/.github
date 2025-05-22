@@ -36,7 +36,7 @@ The workshop provides a complete device model and a server utilizing nodejs/ts.
 Soon we will link additional exmaples to use the workshop device model also with prominent stacks for C/C++ and C#
 
 #
-<h2>4.Ecosystem Projects - FAIR by design</h2>
+<h2>4.Ecosystem Projects - FAIR-by-Design</h2>
 We are continuously growing the OPC UA LADS ecosystem to accelerate the development of FAIR-by-design laboratory data infrastructures. Two new open-source components are now available:
 
 ### [`lads-server-collection`](https://github.com/opcua-lads/lads-server-collection)
@@ -44,7 +44,7 @@ A curated collection of simulated OPC UA servers that implement the **LADS (Labo
 
 - Deliver data modeled using the **Allotrope Foundation Ontologies (AFO)**  
 - Provide structured result data in **ASM (Allotrope Simple Model)** format  
-- Are **FAIR by design**, ensuring that results are Findable, Accessible, Interoperable, and Reusable  
+- Are **FAIR-by-Design**, ensuring that results are Findable, Accessible, Interoperable, and Reusable  
 - Demonstrate end-to-end **semantic integration** with OPC UA dictionary references (Part 19), aligning real-time device data with high-level semantic context
 
 This collection enables plug & play demonstrations of semantic lab integration – from basic instruments to high-end analytical systems.
