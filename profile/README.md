@@ -36,7 +36,32 @@ The workshop provides a complete device model and a server utilizing nodejs/ts.
 Soon we will link additional exmaples to use the workshop device model also with prominent stacks for C/C++ and C#
 
 #
-<h2>4. Helpful tools for OPC UA LADS</h2>
+<h2>4.Ecosystem Projects - FAIR by design</h2>
+We are continuously growing the OPC UA LADS ecosystem to accelerate the development of FAIR-by-design laboratory data infrastructures. Two new open-source components are now available:
+
+### [`lads-server-collection`](https://github.com/opcua-lads/lads-server-collection)
+A curated collection of simulated OPC UA servers that implement the **LADS (Laboratory and Analytical Device Standard)** Companion Specification. These servers:
+
+- Deliver data modeled using the **Allotrope Foundation Ontologies (AFO)**  
+- Provide structured result data in **ASM (Allotrope Simple Model)** format  
+- Are **FAIR by design**, ensuring that results are Findable, Accessible, Interoperable, and Reusable  
+- Demonstrate end-to-end **semantic integration** with OPC UA dictionary references (Part 19), aligning real-time device data with high-level semantic context
+
+This collection enables plug & play demonstrations of semantic lab integration – from basic instruments to high-end analytical systems.
+
+### [`lads-client-py`](https://github.com/opcua-lads/lads-client-py)
+A Python-based client application and library for interacting with LADS-compatible OPC UA servers. It includes:
+
+- A **user interface** for browsing and operating LADS servers
+- Semantic tooltips and context based on **AFO**
+- Functionality to test whether a server:
+  - Follows the expected LADS object model
+  - Provides semantically correct annotations
+  - Outputs results in valid ASM JSON format
+
+
+#
+<h2>5. Helpful tools for OPC UA LADS</h2>
 For the time being, have a look at these stacks and tools to get setup properly:
 
 <b>Modellers:</b>
@@ -69,13 +94,4 @@ Stack provided by unified automation: https://www.unified-automation.com/de/prod
 Ansi C/ C++:
 https://github.com/open62541/open62541
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
